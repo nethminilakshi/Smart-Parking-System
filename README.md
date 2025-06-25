@@ -22,5 +22,6 @@
     ![Eureka_Dashboard](https://github.com/user-attachments/assets/852f7be6-6804-4886-84f5-a98c9d1508e0)
 
   Postman Collection
-    [Uploading Smart-Parking_system.postman_collection.json…]()
+    [Smart-Parking_system.postman_collection.json](https://github.com/user-attachments/files/20907639/Smart-Parking_system.postman_collection.json)
 
+    
