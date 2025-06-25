@@ -8,8 +8,11 @@
 
 ## Services
   User Service - Manages user accounts
+  
   Vehicle Service - Manages vehicle details
+  
   Parking Service - Manages parking process
+  
   Payment Service - Handle payments
 
 ## Resources
