@@ -3,7 +3,9 @@
 
 ## Architecture
   Spring Boot Microservices
+  
   Eureka Service Discovery
+  
   API Gateway
 
 ## Services
